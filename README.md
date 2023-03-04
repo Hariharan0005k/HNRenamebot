@@ -71,13 +71,13 @@ broadcast - admin only
 <a href="https://t.me/HNBOTS">
    <p> lntechnical TG</p>
   </a>
-<a href="https://youtube.com/c/HNBOTS">
+<a href="https://youtube.com/HNBOTS">
    <p> lntechnical YT </p>
   </a>
 
 ## 🤩 INSPIRATION
 
-<a href="https://youtube.com/c/HNBOTS">
+<a href="https://youtube.com/@HNBOTS">
    <p>❣️ MoTech 🔥</p>
   </a>
 
