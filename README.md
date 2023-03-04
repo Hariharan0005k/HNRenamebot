@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#  𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓
+
+#  HNBOTS-RENAMER-BOT
 
 
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
@@ -12,19 +12,19 @@
 ### SAMPLE BOT (official pyro rename bot)
 
 <p align="center">
-🤖 <a href="https://t.me/Pyro_Rename_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
+🤖 <a href="https://t.me/HNBOTS"><img title="Telegram" src="https://img.shields.io/static/v1?label=HN+BOTS&message=BOT&color=blue-green"></a> 🤖
 </p>
 
 
 ## Deploy To Koyeb
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[ADMIN]&env[DB_URL]&env[DB_NAME]=pyro-botz&env[FORCE_SUB]&env[START_PIC]&env[PORT]=8080&run_command=python%20bot.py&branch=main&name=pyro-rename) 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Hariharan0005k/HNRenamebot&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[ADMIN]&env[DB_URL]&env[DB_NAME]=pyro-botz&env[FORCE_SUB]&env[START_PIC]&env[PORT]=8080&run_command=python%20bot.py&branch=main&name=pyro-rename) 
 
 ## Deploy To Render
 
 ◉ watch tutorial for render deploy <a href="https://youtu.be/i6OX3xzOCGY"><img src="https://img.shields.io/badge/Watch%20Tutorial%20On%20YouTube-red.svg?logo=Youtube"></a>                     
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Hariharan0005k/HNRenamebot)
 
 ## Deploy To Railway
 
@@ -32,7 +32,7 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT/blob/heroku"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Hariharan0005k/HNRenamebot/blob/heroku"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 
 
@@ -68,16 +68,16 @@ broadcast - admin only
 
 ## ❣️Thanks to
 
-<a href="https://t.me/lntechnical">
+<a href="https://t.me/HNBOTS">
    <p> lntechnical TG</p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
+<a href="https://youtube.com/c/HNBOTS">
    <p> lntechnical YT </p>
   </a>
 
 ## 🤩 INSPIRATION
 
-<a href="https://youtube.com/c/MoTech_YT">
+<a href="https://youtube.com/c/HNBOTS">
    <p>❣️ MoTech 🔥</p>
   </a>
 
