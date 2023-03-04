@@ -3,12 +3,6 @@
 #  HNBOTS-RENAMER-BOT
 
 
-<p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
-
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=HNRenamebot&repo=HNRenamebot&theme=dark)
-
-
 ### SAMPLE BOT (official HNBOTS rename bot)
 
 <p align="center">
